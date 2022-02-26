@@ -6,12 +6,12 @@
 
 	<servers>
 		<server>
-			<id>avn-release</id>
+			<id>sod-release</id>
 			<username>${env.MVS_REPO_USERNAME}</username>
 			<password>${env.MVS_REPO_PASSWORD}</password>
 		</server>
 		<server>
-			<id>avn-snapshot</id>
+			<id>sod-snapshot</id>
 			<username>${env.MVS_REPO_USERNAME}</username>
 			<password>${env.MVS_REPO_PASSWORD}</password>
 		</server>
